@@ -17,3 +17,9 @@
 - p06_operaciones_matematicas
 - p07_funciones_trigonometricas
 - p08_dividir_en_cifras
+
+# 3:
+- p15_verificar_numero
+- p16_verificar_suma
+- p17_convertir_temperaturas
+- p18_paga_trabajador_v2
