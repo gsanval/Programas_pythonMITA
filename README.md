@@ -31,3 +31,9 @@
 - p12_volumen_cilindro
 - p13_calculo_tiempo
 - p14_numero_suerte
+
+# 4:
+- p19_verifica_suma
+- p20_ley_de_newton
+- p21_aceptar_estudiante
+- p22_tipo_angulo
