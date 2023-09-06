@@ -23,3 +23,11 @@
 - p16_verificar_suma
 - p17_convertir_temperaturas
 - p18_paga_trabajador_v2
+
+# Tarea 01:
+- p09_hipotenusa_triangulo
+- p10_tercer_angulo
+- p11_convertir_temperatura
+- p12_volumen_cilindro
+- p13_calculo_tiempo
+- p14_numero_suerte
