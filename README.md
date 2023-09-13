@@ -45,3 +45,10 @@
 - p26_numeros_romanos
 - p27_calculo_notas
 - p28_aceptar_estudiante_v2
+
+# 5:
+- p29_numeros_1_100
+- p30_numeros_100_1
+- p31_numeros_1_200_10
+- p32_numeros_suma_100
+- p33_conteo_numeros
