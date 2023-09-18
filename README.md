@@ -52,3 +52,10 @@
 - p31_numeros_1_200_10
 - p32_numeros_suma_100
 - p33_conteo_numeros
+
+# 6:
+- p34_tabla_conversion
+- p35_conjetura_collatz
+- p36_tabla_de_multiplicar
+- p37_tabla_de_multi_v2
+
