@@ -19,7 +19,7 @@ while (True):
     elif select == 3:
         precio_usuario = 500
     else:
-        print("\nTipo de usuario no valido. Por favor, inténtelo de nuevo.")
+        print("\nTipo de usuario no valido. Intentelo de nuevo")
         continue
 
     if select2 == 1:
@@ -29,7 +29,7 @@ while (True):
     elif select2 == 3:
         precio_paquete = 900
     else:
-        print("\nTipo de paquete no valido. Por favor, inténtelo de nuevo.")
+        print("\nTipo de paquete no valido. Intentelo de nuevo")
         continue
     
     subtotal0 = (precio_usuario + precio_paquete) * cantidad
