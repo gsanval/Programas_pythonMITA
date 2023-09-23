@@ -66,3 +66,7 @@
 - p41-suma-200
 - p42-conversion-temperaturas
 - p43-numero-mayor
+
+# Primer exemen parcial:
+- p44_primer_examen_parcial
+
