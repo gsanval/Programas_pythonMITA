@@ -53,7 +53,7 @@ while (True):
     
 
     print(f"Tu pedido fue : {cantidad}, Tipo de usario: {select}, Tipo de paquete: {select2}")
-    print(f"Subtotal: {subtotal0}, y con un descuneto de {subtotal2} dando un total de {total2}")
+    print(f"Subtotal: {subtotal0}, y con un descuento de {subtotal2} dando un total de {total2}")
     total = total + subtotal
 
     res = input("Deseas continuar(S/N)?").upper()
