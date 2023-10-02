@@ -70,3 +70,16 @@
 # Primer exemen parcial:
 - p44_primer_examen_parcial
 
+# 7:
+- p45_numeros_1_100
+- p46_numeros_100_1
+- p47_arriba_abajo
+- p48_suma_pares_impares
+- p49_suma_numeros
+
+# 8:
+- p50_factorial
+- p51_tabla_multiplicar
+- p52_tablas_multiplicar_v2
+- p53_piramide_caracter
+- p54_factorial_numeros
