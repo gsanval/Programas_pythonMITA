@@ -83,3 +83,10 @@
 - p52_tablas_multiplicar_v2
 - p53_piramide_caracter
 - p54_factorial_numeros
+
+# Tarea 04:
+- p55_numeros_10_en_10
+- p56_suma_pares_2n
+- p57_secuencia_numeros_1
+- p58_secuencia_numeros_2
+- p59_secuencia_terminos_1
