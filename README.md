@@ -90,3 +90,10 @@
 - p57_secuencia_numeros_1
 - p58_secuencia_numeros_2
 - p59_secuencia_terminos_1
+
+# 9:
+- p60_acceder_lista
+- p61_cambiar_lista
+- p62_agregar_lista
+- p63_remover_lista
+- p64_iterar_lista
