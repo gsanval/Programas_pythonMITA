@@ -97,3 +97,14 @@
 - p62_agregar_lista
 - p63_remover_lista
 - p64_iterar_lista
+
+# Tarea 05:
+- p65_acceder_lista
+- p66_modifcar_lista
+- p67_remover_lista
+- p68_lista_promedio
+
+# 11:
+- p80_estudiante
+- p81_calificaciones
+- p82_nombres_edades
