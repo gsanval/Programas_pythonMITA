@@ -104,7 +104,21 @@
 - p67_remover_lista
 - p68_lista_promedio
 
+# 12:
+- p76_trabajando_conjuntos
+- p77_operaciones_conjuntos
+
 # 11:
 - p80_estudiante
 - p81_calificaciones
 - p82_nombres_edades
+
+# Tarea 06:
+- p83_crear_acceder_diccionario
+- p84_modificar_diccionario
+- p85_agregar_diccionario
+- p86_eliminar_diccionario
+- p87_procesar_diccionario
+
+# Segunado exemen parcial:
+- p90–segundo-examen-parcial
