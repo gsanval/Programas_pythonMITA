@@ -122,3 +122,25 @@
 
 # Segunado exemen parcial:
 - p90–segundo-examen-parcial
+
+# Tarea 07:
+- p88–personas
+- p89–numeros
+
+# 13:
+- p91_funcion
+- p92_funcion_parametro
+- p93_funcion_varios_parametros
+- p94_funcion_mas_parametros
+- p95_funcion_parametros_nombre
+- p96_funcion_parametros_por_defecto
+- p97_funcion_suma
+- p98_tabla_de_multiplicar
+- p99_cuadro_caracter
+- p100_numero_mayor
+- p101_estacion_año
+- p102_temperatura
+- p103_suma_digitos
+- p104_factorial
+- p105_calificaion_con_letra
+- p106_suma_numeros_rango
