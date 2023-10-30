@@ -144,3 +144,9 @@
 - p104_factorial
 - p105_calificaion_con_letra
 - p106_suma_numeros_rango
+
+# Tarea 08:
+- p107-numero-menor
+- p108-dia-semana
+- p109-medidas-longitud
+- p110-suma-pares-impares
