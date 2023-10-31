@@ -104,11 +104,11 @@
 - p67_remover_lista
 - p68_lista_promedio
 
-# 12:
+# 11:
 - p76_trabajando_conjuntos
 - p77_operaciones_conjuntos
 
-# 11:
+# 10:
 - p80_estudiante
 - p81_calificaciones
 - p82_nombres_edades
@@ -127,7 +127,7 @@
 - p88–personas
 - p89–numeros
 
-# 13:
+# 12:
 - p91_funcion
 - p92_funcion_parametro
 - p93_funcion_varios_parametros
@@ -150,3 +150,16 @@
 - p108-dia-semana
 - p109-medidas-longitud
 - p110-suma-pares-impares
+
+# 13:
+- p111_suma
+- p112_pares_lista
+- p113_mayor_menor
+- p114_mayor_promedio
+- p115_pares_impares
+- p116_aleatorios
+- p117_nombres
+- p118_funciones
+- p119_usa_funciones
+- p120_modulos_integrados
+
