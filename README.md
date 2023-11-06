@@ -163,3 +163,7 @@
 - p119_usa_funciones
 - p120_modulos_integrados
 
+# Tarea 09:
+- p121_suma_digitos_lista
+- p123_calcula_factoriales
+- p124_estadisticas_basicas
