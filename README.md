@@ -167,3 +167,8 @@
 - p121_suma_digitos_lista
 - p123_calcula_factoriales
 - p124_estadisticas_basicas
+
+# 14:
+- p125_empleado
+- p127_circulo
+- p128_rectangulo
