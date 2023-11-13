@@ -172,3 +172,7 @@
 - p125_empleado
 - p127_circulo
 - p128_rectangulo
+
+# Tarea 10:
+- p129_Articulo
+
