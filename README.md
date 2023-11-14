@@ -176,3 +176,5 @@
 # Tarea 10:
 - p129_Articulo
 
+# 15:
+- p130_ventas
