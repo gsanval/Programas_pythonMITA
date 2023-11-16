@@ -178,3 +178,6 @@
 
 # 15:
 - p130_ventas
+
+# Tercer exemen parcial:
+- p131-tecer-examen-parcial
